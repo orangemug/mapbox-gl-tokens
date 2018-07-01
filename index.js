@@ -34,8 +34,8 @@ const providers = [
 ];
 
 /**
- * @param {Object} tokens
- * @param {Function} requestTransformFunction
+ * @param {Object} tokens of dta sources
+ * @param {Function} requestTransformFunction as defined <https://www.mapbox.com/mapbox-gl-js/api#map>
  * @return {Object}
  */
 module.exports = function(tokens, requestTransformFunction) {
