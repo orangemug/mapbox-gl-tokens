@@ -1,4 +1,4 @@
-# mapbox-gl-tokens
+# mapbox-gl-tokens
 Making it easy to reuse open source mapbox-gl-js styles that need tokens
 
 [![stability-unstable](https://img.shields.io/badge/stability-unstable-yellow.svg)][stability]
