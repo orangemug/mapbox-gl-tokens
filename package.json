@@ -1,0 +1,10 @@
+{
+  "name": "mapbox-gl-tokens",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "mocha test/index.js"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
