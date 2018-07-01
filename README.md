@@ -73,7 +73,7 @@ const map = new mapboxgl.Map({
 
 The library also accepts a second parameter, which can further transform the request.
 
-```
+```js
 mapboxGlTokens(tokens, function(url, resourceType) {
   // Transform the request in the normal way...
   return {
