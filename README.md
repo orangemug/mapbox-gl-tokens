@@ -1,5 +1,5 @@
 # mapbox-gl-tokens
-Making it easy to reuse open source mapbox-gl-js styles
+Making it easy to reuse open source mapbox-gl-js styles that need tokens
 
 [![stability-unstable](https://img.shields.io/badge/stability-unstable-yellow.svg)][stability]
 [![Build Status](https://circleci.com/gh/orangemug/mapbox-gl-tokens.png?style=shield)][circleci]
