@@ -25,7 +25,7 @@ npm install orangemug/mapbox-gl-tokens
 
 
 ## Usage
-Via `<script/>` tags
+Via `<script/>` tags (work in progress)
 
 ```html
 <!DOCTYPE html>
